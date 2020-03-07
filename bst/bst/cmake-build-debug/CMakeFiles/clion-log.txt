@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/liujiayi/Desktop/算法与数据结构/bst/bst
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug
