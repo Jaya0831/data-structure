@@ -49,7 +49,7 @@ BinNodePosi(T) AVL<T>::rotateAt(BinNodePosi(T) v) {//传入的v是三个节点�
         if(IsLChild(*v)){//v是左孩子
             //zig
             p->parent=g->parent;//向上连接
-            return this->onnect34(v,p,g,v->lChild,v->rChild,p->rChild,g->rChild);
+            return this->connect34(v,p,g,v->lChild,v->rChild,p->rChild,g->rChild);
         }
         else {//v是右孩子
             //zag-zig

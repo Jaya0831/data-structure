@@ -8,43 +8,43 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug"/>
+				<Option working_dir="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug"/>
+				<Option working_dir="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug"/>
+				<Option working_dir="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="bst">
-				<Option output="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/bst" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug"/>
+				<Option output="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/bst" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/."/>
+					<Add directory="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/."/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
@@ -53,20 +53,20 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 bst"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 bst"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="bst/fast">
-				<Option output="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/bst" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug"/>
+				<Option output="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/bst" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/."/>
+					<Add directory="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/."/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
 					<Add directory="/usr/local/include"/>
 					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.0/include"/>
@@ -75,44 +75,44 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 bst/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 bst/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/AVL.h">
+		<Unit filename="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/AVL.h">
 			<Option target="bst"/>
 		</Unit>
-		<Unit filename="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/BST.h">
+		<Unit filename="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/BST.h">
 			<Option target="bst"/>
 		</Unit>
-		<Unit filename="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/BTNode.h">
+		<Unit filename="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/BTNode.h">
 			<Option target="bst"/>
 		</Unit>
-		<Unit filename="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/BTree.h">
+		<Unit filename="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/BTree.h">
 			<Option target="bst"/>
 		</Unit>
-		<Unit filename="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/BinNode.h">
+		<Unit filename="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/BinNode.h">
 			<Option target="bst"/>
 		</Unit>
-		<Unit filename="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/BinTree.h">
+		<Unit filename="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/BinTree.h">
 			<Option target="bst"/>
 		</Unit>
-		<Unit filename="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/Entry.h">
+		<Unit filename="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/Entry.h">
 			<Option target="bst"/>
 		</Unit>
-		<Unit filename="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/RedBlack.h">
+		<Unit filename="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/RedBlack.h">
 			<Option target="bst"/>
 		</Unit>
-		<Unit filename="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/Splay.h">
+		<Unit filename="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/Splay.h">
 			<Option target="bst"/>
 		</Unit>
-		<Unit filename="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/main.cpp">
+		<Unit filename="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/main.cpp">
 			<Option target="bst"/>
 		</Unit>
-		<Unit filename="/Users/liujiayi/Desktop/算法与数据结构/bst/bst/CMakeLists.txt">
+		<Unit filename="/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

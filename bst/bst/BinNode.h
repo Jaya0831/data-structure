@@ -13,11 +13,13 @@
 #include <queue>
 using namespace std;
 
+enum Color {RB_RED,RB_BLACK};
 #define BinNodePosi(T) BinNode<T>*
 template <typename T> struct BinNode{
     T data;
     BinNodePosi(T) parent, lChild, rChild;//d父亲，左右孩子
     int height;//高度
+    Color color=RB_RED;
     BinNode():data(NULL),lChild(nullptr),rChild(nullptr),height(0){}
     BinNode(T e, BinNode* p= nullptr, BinNode* lChild= nullptr,BinNode* rChild= nullptr,int height=0):
     data(e),parent(p),lChild(lChild),rChild(rChild),height(height){}

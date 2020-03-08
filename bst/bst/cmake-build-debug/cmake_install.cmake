@@ -1,4 +1,4 @@
-# Install script for directory: /Users/liujiayi/Desktop/算法与数据结构/bst/bst
+# Install script for directory: /Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/liujiayi/Desktop/算法与数据结构/bst/bst/main.cpp" "/Users/liujiayi/Desktop/算法与数据结构/bst/bst/cmake-build-debug/CMakeFiles/bst.dir/main.cpp.o"
+  "/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/main.cpp" "/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/CMakeFiles/bst.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
