@@ -1,3 +1,0 @@
-/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/liujiayi/Desktop/data-structure-algorithm/data-structure/bst/bst/cmake-build-debug/CMakeFiles/bst.dir
